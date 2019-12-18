@@ -23,6 +23,13 @@
       "algorithm": "HS256",
       "expiresIn": "1d"
     },
+    "oauth": {
+      "redirect": "/",
+      "github": {
+        "key": "78329abab179c1f42ab9",
+        "secret": "d47a988b588a65c2358d39f0c2b24e33bca0d2ea"
+      }
+    },
     "local": {
       "usernameField": "email",
       "passwordField": "password"
